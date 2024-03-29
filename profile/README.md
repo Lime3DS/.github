@@ -23,4 +23,4 @@ Join our [Discord](https://discord.com/invite/4ZjMpAp3M6) community and feel fre
 
 ## License
 
-Lime3DS is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://raw.githubusercontent.com/RyzenDew/Lime-3DS-Emulator/master/license.txt) file.
+Lime3DS is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://raw.githubusercontent.com/Lime3DS/Lime3DS/master/license.txt) file.
